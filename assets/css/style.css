@@ -40,7 +40,7 @@ body {
     color: white;
     text-decoration: none;
     padding: 8px 10px;
-    font-size: 14px;
+    font-size: 13px;
     display: flex;
     align-items: center;
     gap: 10px;
@@ -337,9 +337,8 @@ body {
 .moto-menu img{
     position:relative;
     z-index:1;
-    width:100%;
-    max-width:240px;
-    height:auto;
+    width:100px;
+    height:100px;
 }
 
 .versão {
@@ -391,6 +390,6 @@ body {
     gap: 15px;
     border-bottom: 1px solid rgba(255, 255, 255, 0.10);
     border-radius: 10px;
-    height: 500px;
+    height: 450px;
 
 }
